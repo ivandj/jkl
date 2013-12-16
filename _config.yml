@@ -1,10 +1,10 @@
 name: Trying out Jekyll
 markdown: redcarpet
 pygments: true
-baseurl: http://ivandj.github.io/jkl/
+baseurl: http://ivandj.github.io/jkl
 url: http://ivandj.github.io/jkl
 repo_url: https://github.com/ivandj/jkl
 server: auto
 safe: true
 auto: true
-permalink: /:year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title/
