@@ -7,4 +7,4 @@ repo_url: https://github.com/ivandj/jkl
 server: auto
 safe: true
 auto: true
-permalink: /:year-:month-:day/:title/
+permalink: :year-:month-:day/:title/
