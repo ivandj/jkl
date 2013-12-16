@@ -1,3 +1,4 @@
 name: Trying out Jekyll
 markdown: redcarpet
 pygments: true
+baseurl: http://ivandj.github.io/jkl/
